@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Gasolina ou Alcool</string>
     <string name="iv_logo_contentdescrip" />
-    <string name="tv_descubra"> descubra se é melhor utilizar álcool ou gasolina</string>
+    <string name="tv_descubra"> Descubra se é melhor utilizar álcool ou gasolina</string>
     <string name="et_preco_alcool_hint">Digite o preço do álcool</string>
     <string name="et_preco_gasolina_hint">Digite o preço da gasolina</string>
     <string name="btn_calcular_text">Calcular</string>
